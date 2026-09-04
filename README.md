@@ -41,6 +41,10 @@ Before installing the plugin, you must register for a free API Key at [https://b
    - Run a standard library scan to refresh your movie metadata.
    - Go to **Scheduled Tasks -> Library** and run **Sync BespokeDB Collections** to instantly build your official box sets!
 
+## Privacy & Terms
+
+By installing and using the BespokeDB plugin, you agree to our [Terms of Service](https://bespokedb.cloud/terms.html) and [Privacy Policy](https://bespokedb.cloud/privacy.html). We are strictly committed to data minimization. We only collect telemetry on the specific movies queried that exist in our database; we do **not** collect telemetry or data on any other movies in your personal media library.
+
 ## FAQ
 
 Have questions about how box sets are generated, how caching works, or how to troubleshoot matching? Check out our [Frequently Asked Questions (FAQ)](FAQ.md) guide!
