@@ -43,7 +43,7 @@ Before installing the plugin, you must register for a free API Key at [https://b
 
 ## Privacy & Terms
 
-By installing and using the BespokeDB plugin, you agree to our [Terms of Service](https://bespokedb.cloud/terms.html) and [Privacy Policy](https://bespokedb.cloud/privacy.html). We are strictly committed to data minimization. We only collect telemetry on the specific movies queried that exist in our database; we do **not** collect telemetry or data on any other movies in your personal media library.
+By installing and using the BespokeDB plugin, you agree to our [Terms of Service](https://bespokedb.cloud/terms.html) and [Privacy Policy](https://bespokedb.cloud/privacy.html). We are strictly committed to data minimization. We only collect telemetry on the specific movies queried that exist in our database; we do **not** collect telemetry or data on any other movies in your personal media library. Any telemetry collected is securely tied to your API key (acting as a pseudonymous token) and strictly conforms to our data retention schedule.
 
 ## FAQ
 
